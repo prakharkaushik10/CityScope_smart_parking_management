@@ -23,14 +23,14 @@ This project implements a **real-time Automatic Number Plate Recognition (ANPR)*
 
 ## 📁 Project Structure
 
-ANPR/
-├── anpr.py # Main ANPR script
-├── test.py # Local testing script
-├── best.pt # Trained YOLOv5 model
-├── requirements.txt # Dependencies
-├── .env # Environment variables
-├── .gitignore
-├── README.md
+ANPR/\
+├── anpr.py # Main ANPR script\
+├── test.py # Local testing script\
+├── best.pt # Trained YOLOv5 model\
+├── requirements.txt # Dependencies\
+├── .env # Environment variables\
+├── .gitignore\
+├── README.md\
 └── yolov5/ # YOLOv5 repo (optional)
 
 yaml
